@@ -1,0 +1,15 @@
+# 3018 Updgrade/Resesign
+
+## BOM
+
+| Part | Supplier | Cost | Purchase Date | Notes |
+|-----|----------|------|-------|-------|
+| 1.5kW Air Cooled Spindle + Inverter | [Amazon](https://www.amazon.com/dp/B0DT5XN67F) | $205 | Jan 2025 | |
+| PWM -> 0-10V Converter | [Amazon](https://www.amazon.com/dp/B0BG2G5FMX) | $15 (for 5) | Jan 2025 | |
+| 300 Linear Guide | [AliExpress](https://www.aliexpress.us/item/3256807357569305.html) | $121 (w/coupon) | Jan 2025 | X-axis, 1605 ballscrew, MGN12 rails, enclosed |
+| 100 Linear Guide | [AliExpress](https://www.aliexpress.us/item/3256807357569305.html) | $82 (w/coupon) | Jan 2025 | Z-axis, 1605 ballscrew, MGN12 rails, enclosed |
+
+## Design Details
+
+* [Linear guides](./linear-guides.md)
+* [Electronics](./electronics.md)
