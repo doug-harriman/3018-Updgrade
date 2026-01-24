@@ -9,6 +9,7 @@
 | PWM -> 0-10V Converter | [Amazon](https://www.amazon.com/dp/B0BG2G5FMX) | $15 (for 5) | Jan 2025 | |
 | 300 Linear Guide | [AliExpress](https://www.aliexpress.us/item/3256807357569305.html) | $121 (w/coupon) | Jan 2025 | X-axis, 1605 ballscrew, MGN12 rails, enclosed |
 | 100 Linear Guide | [AliExpress](https://www.aliexpress.us/item/3256807357569305.html) | $82 (w/coupon) | Jan 2025 | Z-axis, 1605 ballscrew, MGN12 rails, enclosed |
+| 2pc Spindle Mount | [Amazon](https://www.amazon.com/Beuiouer-Engraving-Diameter-Aluminum-Mounting/dp/B0D93XY7YT) | $31 | Not purchased yet | |
 
 ## Design Details
 
