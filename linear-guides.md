@@ -21,6 +21,6 @@
 
 ## Drawings
 
-![Drawing](90mm-wide-slide-table-drawing.png)
-![Photo](90mm-wide-slide-table-photo.png)
+![Drawing](./Mechanical/90mm-wide-slide-table-drawing.png)
+![Photo](./Mechanical/90mm-wide-slide-table-photo.png)
 
