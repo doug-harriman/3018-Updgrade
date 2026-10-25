@@ -13,7 +13,7 @@
 - Total length: Effective stroke + 170mm
 - Module width: 90mm
 - Guide diameter: 12mm
-- Guide Type: 2x MGN12
+- Guide Type: 2x MGN12C
 - Horizontal load: Max 70 kg
 - Vertical load: Max 35 kg
 - Maximum speed: 250mm/s
